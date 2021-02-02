@@ -13,7 +13,7 @@
      server_port: 443
 
  
-vars_files:
+  vars_files:
     - variable_file.yaml
 # este se tiene que revisar porque al pareecr los valores de las VALN estan al reves
 #+ pero asi funcion :/
