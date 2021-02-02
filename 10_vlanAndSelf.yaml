@@ -1,5 +1,5 @@
 - name: CONFIGURING VLAN AND SELF-IP
-  hosts: all
+  hosts: bigips
   connection: local
   gather_facts: false
   vars:
