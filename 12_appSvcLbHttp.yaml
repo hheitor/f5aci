@@ -29,3 +29,4 @@
          pool: "{{tenant_name}}_http-pool"
          snat: "automap"
     delegate_to: localhost
+### note that this ansible module doesn't support object change so if VS already exist i won't work ####
